@@ -3,7 +3,8 @@
 
 [![Linkedin: siahyeelong](https://img.shields.io/badge/-Siah%20Yee%20Long-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siahyeelong/)](https://www.linkedin.com/in/siahyeelong/)
 
-![GitHub followers](https://img.shields.io/github/followers/siahyeelong?label=Follow&style=social)
+[![Follow](https://img.shields.io/github/followers/siahyeelong?label=Follow&style=social)](https://github.com/siahyeelong)
+
 
 - 🔭 I’m currently working on **full stack development, my personal finances, 3D printing**
 
