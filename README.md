@@ -21,10 +21,10 @@
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
     <a href="https://fme.safe.com/" target="_blank" rel="noreferrer"> <img src="./images/FME_Software_Logo.svg" alt="fme" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
     <a href="https://www.microsoft.com/en-sg/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="./images/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> </a> 
-    <a href="https://www.onshape.com/en/" target="_blank" rel="noreferrer"> <img src="./images/Onshape_logo-300x300.png" alt="onshape" width="40" height="40"/> </a> </p>
-    <a href="https://www.3ds.com/products/catia/catia-v5" target="_blank" rel="noreferrer"> <img src="./images/CATIA_logo.svg.png" alt="catia" width="40" height="40"/> </a> </p>
+    <a href="https://www.onshape.com/en/" target="_blank" rel="noreferrer"> <img src="./images/Onshape_logo-300x300.png" alt="onshape" width="40" height="40"/> </a>
+    <a href="https://www.3ds.com/products/catia/catia-v5" target="_blank" rel="noreferrer"> <img src="./images/CATIA_logo.svg.png" alt="catia" width="40" height="40"/> </a>
 
 ![siahyeelong's Stats](https://github-readme-stats.vercel.app/api?username=siahyeelong&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 
