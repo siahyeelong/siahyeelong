@@ -6,13 +6,18 @@
 
 - 🔭 I’m currently working on **full stack development, my personal finances, and 3D printing**
 
-- 🌱 I’m currently learning **3D printing**
+- 🌱 I’m currently learning **web development with the MERN stack**
 
 - 📫 How to reach me **yeelongsiah@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <img src="./images/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
+    <img src="./images/express.png" alt="express js" width="" height="40"/> </a> 
+    <img src="./images/react logo.png" alt="react" width="" height="40"/> </a> 
+    <img src="./images/node.png" alt="node js" width="" height="40"/> </a> 
+    <img src="./images/js.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
