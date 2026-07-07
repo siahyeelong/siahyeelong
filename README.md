@@ -1,12 +1,10 @@
 <h1 align="center">hey there, I'm Yee Long!</h1>
-<h3 align="center">Computer Engineering undergraduate at NTU</h3>
+<h3 align="center">Pursuing an MPhil in Data Intensive Science at Cambridge</h3>
 
 [![Linkedin: siahyeelong](https://img.shields.io/badge/-Siah%20Yee%20Long-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siahyeelong/)](https://www.linkedin.com/in/siahyeelong/) [![Follow](https://img.shields.io/github/followers/siahyeelong?label=Follow&style=social)](https://github.com/siahyeelong)
 
 
-- 🔭 I’m currently working on **full stack development, my personal finances, and 3D printing**
-
-- 🌱 I’m currently learning **web development with the MERN stack**
+- 🔭 I’m currently working on **self-hosting, LLMs and 3D printing**
 
 - 📫 How to reach me **yeelongsiah@gmail.com**
 
